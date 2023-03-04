@@ -1,1 +1,0 @@
-# Problema-spatiu-de-coordonate-cartezian
